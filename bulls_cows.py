@@ -1,5 +1,6 @@
 """
-TODO:
+This code can be used to play the Bulls and Cows game.
+See the game rules at:
 https://en.wikipedia.org/wiki/Bulls_and_Cows
 """
 import random
